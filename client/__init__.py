@@ -1,0 +1,1 @@
+"Client/Frontend package for the RAG assignment"

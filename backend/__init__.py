@@ -1,0 +1,1 @@
+"Server/Backend package for the RAG assignment"
